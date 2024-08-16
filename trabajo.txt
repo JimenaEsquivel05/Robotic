@@ -1,0 +1,21 @@
+YA    Titulo de la pagina,
+YA    Logotipo,
+YA    Menú de opciones, Botones dinámicos, 
+YA    Iconos de redes sociales con hiperenlace a una cuenta del servicio
+YA    Descripción de los contenidos, y recursos didácticos,
+YA    Tutoriales,
+YA    Manejo de imágenes, scroll tipo rotativo.
+YA    Videos informativos, entrevistas, 
+YA    Formulario de inscripción a cursos, 
+YA    Carrito de ventas,
+YA    Formulario "opinión del usuario",
+YA    Manejo de fondos de pantalla
+YA    Conexión a base de datos de los usuarios inscritos,
+YA    Programación en una sola pagina.
+
+        COLORES
+#D95B89
+#5430D9
+#3574F2
+#F2A35E
+#F25E5E
